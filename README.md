@@ -40,7 +40,7 @@ For example, for the simple black image from last algorithm:
 
 Another examples: 
 
-![heq3](https://user-images.githubusercontent.com/64755588/205484389-66702076-901b-4711-a3c0-97f7cbccf365.jpg)
+![heq4](https://user-images.githubusercontent.com/64755588/205484498-ab94c316-2560-422a-a2a5-fb11c7f6fd33.jpg)
 
 ![heq2](https://user-images.githubusercontent.com/64755588/205484396-9f162ffc-5a5f-4e18-89c0-8c3f275dfdd8.jpg)
 
