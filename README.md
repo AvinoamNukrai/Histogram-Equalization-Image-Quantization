@@ -13,7 +13,9 @@ Histogram equalization Algorithm:
 7. Map the intensity values of the image using the result of step 6.
 Let C(k) be the cumulative histogram at intensity k and let m be the first gray level for which C(m) ̸= 0, then the transformation T is: T(k) = round[255 · C(k) − C(m) / (C(255) − C(m))]
 
-For example, for a simple black image (left image), we will get the right image: ![left right](https://user-images.githubusercontent.com/64755588/205483921-5665af02-d92f-46f5-aa15-9f392d81c44e.png)
+For example, for a simple black image (left image), we will get the right image:
+
+![left right](https://user-images.githubusercontent.com/64755588/205483921-5665af02-d92f-46f5-aa15-9f392d81c44e.png)
 
 
 Optimal image quantization Algorithm: 
@@ -32,6 +34,7 @@ process is composed of the following two steps:
 dimensional array, containing n_quant elements.
 
 For example, for the simple black image from last algorithm: 
+
 ![q_res](https://user-images.githubusercontent.com/64755588/205484095-2bee13c9-f61a-466d-8744-891b54ab4b01.png)
 
 
