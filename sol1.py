@@ -1,4 +1,4 @@
-# Written by Avinoam Nukrai - Ex1 of IMPR course, Hebrew U 2023
+# Written by Avinoam Nukrai 2022
 
 import matplotlib.pyplot as plt
 import numpy as np
