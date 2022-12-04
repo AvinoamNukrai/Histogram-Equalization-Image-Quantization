@@ -32,3 +32,11 @@ dimensional array, containing n_quant elements.
 
 For example, for the simple black image from last algorithm: 
 ![q_res](https://user-images.githubusercontent.com/64755588/205484095-2bee13c9-f61a-466d-8744-891b54ab4b01.png)
+
+
+Another examples: 
+![heq3](https://user-images.githubusercontent.com/64755588/205484389-66702076-901b-4711-a3c0-97f7cbccf365.jpg)
+
+![heq2](https://user-images.githubusercontent.com/64755588/205484396-9f162ffc-5a5f-4e18-89c0-8c3f275dfdd8.jpg)
+
+![q4](https://user-images.githubusercontent.com/64755588/205484416-a9ee8972-aca3-4cf8-8b67-e24efcb06f97.jpg)
