@@ -17,6 +17,7 @@ For example, for a simple black image (left image), we will get the right image:
 
 
 Optimal image quantization Algorithm: 
+
 ![q_algo](https://user-images.githubusercontent.com/64755588/205484029-53404a27-bf24-4ab0-b89a-4069c77c93e1.png)
 
 Note about the algorithm: 
@@ -35,6 +36,7 @@ For example, for the simple black image from last algorithm:
 
 
 Another examples: 
+
 ![heq3](https://user-images.githubusercontent.com/64755588/205484389-66702076-901b-4711-a3c0-97f7cbccf365.jpg)
 
 ![heq2](https://user-images.githubusercontent.com/64755588/205484396-9f162ffc-5a5f-4e18-89c0-8c3f275dfdd8.jpg)
