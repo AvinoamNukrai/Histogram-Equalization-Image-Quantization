@@ -18,12 +18,15 @@ For example, for a simple black image (left image), we will get the right image:
 
 Optimal image quantization Algorithm: 
 ![q_algo](https://user-images.githubusercontent.com/64755588/205484029-53404a27-bf24-4ab0-b89a-4069c77c93e1.png)
+
 Note about the algorithm: 
 If an RGB image is given, the quantization procedure should only operate on the Y channel of the
 corresponding YIQ image and then convert back from YIQ to RGB. Each iteration of the quantization
 process is composed of the following two steps:
+
 • Computing z - the borders which divide the histograms into segments. z is an array with shape
 (n_quant+1,). The first and last elements are 0 and 255 respectively.
+
 • Computing q - the values to which each of the segments’ intensities will map. q is also a one
 dimensional array, containing n_quant elements.
 
